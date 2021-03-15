@@ -1,0 +1,3 @@
+由于用了 Es6 script type="module" 本地直接打开html 会报错跨域
+需要启动本地服务预览
+可安装 live-server 或 nginx 启动一个本地服务

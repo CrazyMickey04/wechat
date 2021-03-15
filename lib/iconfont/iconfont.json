@@ -1,0 +1,72 @@
+{
+  "id": "2418624",
+  "name": "wechat_test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1330778",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "1350120",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1409622",
+      "name": "23通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2931513",
+      "name": "添加好友",
+      "font_class": "tianjiahaoyou",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "10831317",
+      "name": "添加好友",
+      "font_class": "tianjiahaoyou1",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11391500",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11463937",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12188359",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "20140262",
+      "name": "聊天",
+      "font_class": "liaotian-04",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
